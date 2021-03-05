@@ -1,0 +1,18 @@
+{
+  "extensionID": "57df35e6-9d7d-4cdd-bd9d-1d98173b3579",
+  "createdBy": "Compasso",
+  "developerID": "rafael.tognon",
+  "translations": [{
+      "language": "en",
+      "name": "academy-occ-d01-RafaelTognon",
+      "description": "Rotate banner widget "
+    },
+    {
+      "language": "pt_BR",
+      "name": "academy-occ-d01-RafaelTognon",
+      "description": "Widget com banner rotativo"
+    }
+  ],
+  "version": 1,
+  "timeCreated": "2021-03-03"
+}

@@ -1,0 +1,29 @@
+{
+  "configuration": {
+    "ImageName1": "Sem imagem",
+    "banner4": {
+      "src": "file/general/no-image.jpg",
+      "mediaName": ""
+    },
+    "ImageName4": "Sem imagem",
+    "ImageName2": "Sem imagem",
+    "ImageName3": "Sem imagem",
+    "imageLink1": "",
+    "banner2": {
+      "src": "file/general/no-image.jpg",
+      "mediaName": ""
+    },
+    "imageLink2": "",
+    "banner3": {
+      "src": "file/general/no-image.jpg",
+      "mediaName": ""
+    },
+    "imageLink3": "",
+    "imageLink4": "",
+    "banner1": {
+      "src": "file/general/no-image.jpg",
+      "mediaName": ""
+    }
+  },
+  "displayName": "academy-occ-d01-RafaelTognon"
+}

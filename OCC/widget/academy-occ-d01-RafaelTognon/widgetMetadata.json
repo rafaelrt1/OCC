@@ -1,0 +1,43 @@
+{
+  "imports": [],
+  "translations": [
+    {
+      "name": "academy-occ-d01-RafaelTognon",
+      "language": "en"
+    },
+    {
+      "name": "academy-occ-d01-RafaelTognon",
+      "language": "pt_BR"
+    }
+  ],
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "minWidth": 1,
+  "globalEnabled": false,
+  "config": {
+    "ImageName1": "",
+    "ImageName2": "",
+    "ImageName3": "",
+    "ImageName4": "",
+    "banner1": {
+      "mediaName": "",
+      "src": ""
+    },
+    "banner2": {
+      "mediaName": "",
+      "src": ""
+    },
+    "banner3": {
+      "mediaName": "",
+      "src": ""
+    },
+    "banner4": {
+      "mediaName": "",
+      "src": ""
+    },
+    "imageLink1": "",
+    "imageLink2": "",
+    "imageLink3": "",
+    "imageLink4": ""
+  }
+}

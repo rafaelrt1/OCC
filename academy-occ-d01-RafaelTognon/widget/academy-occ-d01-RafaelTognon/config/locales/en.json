@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "imageLinkHelpText": "Banner link",
+    "imageLinkURLLabel": "Link",
+    "imageToShowHelpText": "banner image",
+    "imageToShowLabel": "Imagem",
+    "ImageNameHelpText": "banner description",
+    "ImageNameURLLabel": "Description"
+  }
+}

@@ -1,0 +1,47 @@
+<h1 class="title" data-bind="text: textInput"></h2>
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <a data-bind="attr: {href :imageLink1}"><img class="carouselImage center-block" data-bind="attr: {src: banner1.src, alt: ImageName1, title: ImageName1}"></a>
+      <div class="carousel-caption">
+        <p data-bind="text: ImageName1"></p>
+      </div>
+    </div>
+    <div class="item">
+      <a data-bind="attr: {href :imageLink2}"><img class="carouselImage center-block" data-bind="attr: {src: banner2.src, alt: ImageName2, title: ImageName2}"></a>
+      <div class="carousel-caption">
+        <p data-bind="text: ImageName2"></p>
+      </div>
+    </div>
+    <div class="item">
+      <a data-bind="attr: {href :imageLink3}"><img class="carouselImage center-block" data-bind="attr: {src: banner3.src, alt: ImageName3, title: ImageName3}"></a>
+      <div class="carousel-caption">
+        <p data-bind="text: ImageName3"></p>
+      </div>
+    </div>
+    <div class="item">
+      <a data-bind="attr: {href :imageLink4}"><img class="carouselImage center-block" data-bind="attr: {src: banner4.src, alt: ImageName4, title: ImageName4}"></a>
+      <div class="carousel-caption">
+        <p data-bind="text: ImageName4"></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>

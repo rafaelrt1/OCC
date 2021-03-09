@@ -1,0 +1,43 @@
+{
+  "imports": [],
+  "translations": [
+    {
+      "name": "academy-occ-d01-RafaelTognon",
+      "language": "en"
+    },
+    {
+      "name": "academy-occ-d01-RafaelTognon",
+      "language": "pt_BR"
+    }
+  ],
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "minWidth": 1,
+  "globalEnabled": false,
+  "config": {
+    "ImageName1": "Este é um treinamento com banner",
+    "ImageName2": "Este é um treinamento com banner",
+    "ImageName3": "Este é um treinamento com banner",
+    "ImageName4": "Este é um treinamento com banner",
+    "banner1": {
+      "mediaName": "/general/banner_card_01.jpg",
+      "src": ""
+    },
+    "banner2": {
+      "mediaName": "/general/banner_card_01.jpg",
+      "src": ""
+    },
+    "banner3": {
+      "mediaName": "/general/banner_card_01.jpg",
+      "src": ""
+    },
+    "banner4": {
+      "mediaName": "/general/banner_card_01.jpg",
+      "src": ""
+    },
+    "imageLink1": "/home",
+    "imageLink2": "/home",
+    "imageLink3": "/home",
+    "imageLink4": "/home"
+  }
+}

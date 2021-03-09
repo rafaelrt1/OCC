@@ -1,0 +1,29 @@
+{
+  "configuration": {
+    "ImageName1": "Você não está logado ou não é do sexo masculino",
+    "banner4": {
+      "src": "/file/v8605244322083723130/general/projetos2.png",
+      "mediaName": "/general/projetos2.png"
+    },
+    "ImageName4": "Você não está logado ou não é do sexo masculino",
+    "ImageName2": "Você não está logado ou não é do sexo masculino",
+    "ImageName3": "Você não está logado ou não é do sexo masculino",
+    "banner2": {
+      "src": "/file/v3382911196491900838/general/projetos0.png",
+      "mediaName": "/general/projetos0.png"
+    },
+    "imageLink1": "",
+    "banner3": {
+      "src": "/file/v7226548420812049731/general/projetos1.png",
+      "mediaName": "/general/projetos1.png"
+    },
+    "imageLink2": "",
+    "imageLink3": "",
+    "banner1": {
+      "src": "/file/v4270816539636550117/general/castle.jpg",
+      "mediaName": "/general/castle.jpg"
+    },
+    "imageLink4": ""
+  },
+  "displayName": "academy-occ-d02-RafaelTognon-default"
+}

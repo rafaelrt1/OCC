@@ -1,3 +1,3 @@
-Na pasta OCC está o arquivo final, que está pronto na plataforma do OCC.
+Na pasta academy-occ-d01-RafaelTognon está o arquivo que criei para gerar a extensão no OCC e posteriormente instanciar.
 
-Já na pasta academy-occ-d01-RafaelTognon está o arquivo que criei para gerar a extensão no OCC e posteriormente instanciar.
+Nas outras pastas estão os arquivos finais de cada desafio.

@@ -1,0 +1,101 @@
+{
+  "widgetDescriptorName": "academy-occ-d01-RafaelTognon",
+  "properties": [
+    {
+      "name": "banner1",
+      "id": "banner1",
+      "helpTextResourceId": "imageToShowHelpText",
+      "labelResourceId": "imageToShowLabel",
+      "type": "mediaType",
+      "required": true
+    },
+    {
+      "defaultValue": "",
+      "name": "imageLink1",
+      "id": "imageLink1",
+      "helpTextResourceId": "imageLinkHelpText",
+      "labelResourceId": "imageLinkURLLabel",
+      "type": "stringType"
+    },
+    {
+      "defaultValue": "",
+      "name": "ImageName1",
+      "id": "ImageName1",
+      "helpTextResourceId": "ImageNameHelpText",
+      "labelResourceId": "ImageNameURLLabel",
+      "type": "stringType"
+    },
+    {
+      "name": "banner2",
+      "id": "banner2",
+      "helpTextResourceId": "imageToShowHelpText",
+      "labelResourceId": "imageToShowLabel",
+      "type": "mediaType",
+      "required": true
+    },
+    {
+      "defaultValue": "",
+      "name": "imageLink2",
+      "id": "imageLink2",
+      "helpTextResourceId": "imageLinkHelpText",
+      "labelResourceId": "imageLinkURLLabel",
+      "type": "stringType"
+    },
+    {
+      "defaultValue": "",
+      "name": "ImageName2",
+      "id": "ImageName2",
+      "helpTextResourceId": "ImageNameHelpText",
+      "labelResourceId": "ImageNameURLLabel",
+      "type": "stringType"
+    },
+    {
+      "name": "banner3",
+      "id": "banner3",
+      "helpTextResourceId": "imageToShowHelpText",
+      "labelResourceId": "imageToShowLabel",
+      "type": "mediaType",
+      "required": true
+    },
+    {
+      "defaultValue": "",
+      "name": "imageLink3",
+      "id": "imageLink3",
+      "helpTextResourceId": "imageLinkHelpText",
+      "labelResourceId": "imageLinkURLLabel",
+      "type": "stringType"
+    },
+    {
+      "defaultValue": "",
+      "name": "ImageName3",
+      "id": "ImageName3",
+      "helpTextResourceId": "ImageNameHelpText",
+      "labelResourceId": "ImageNameURLLabel",
+      "type": "stringType"
+    },
+    {
+      "name": "banner4",
+      "id": "banner4",
+      "helpTextResourceId": "imageToShowHelpText",
+      "labelResourceId": "imageToShowLabel",
+      "type": "mediaType",
+      "required": true
+    },
+    {
+      "defaultValue": "",
+      "name": "imageLink4",
+      "id": "imageLink4",
+      "helpTextResourceId": "imageLinkHelpText",
+      "labelResourceId": "imageLinkURLLabel",
+      "type": "stringType"
+    },
+    {
+      "defaultValue": "",
+      "name": "ImageName4",
+      "id": "ImageName4",
+      "helpTextResourceId": "ImageNameHelpText",
+      "labelResourceId": "ImageNameURLLabel",
+      "type": "stringType"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "configuration": {
+    "ImageName1": "Castelo",
+    "banner4": {
+      "src": "/file/v8605244322083723130/general/projetos2.png",
+      "mediaName": "/general/projetos2.png"
+    },
+    "ImageName4": "Castelo",
+    "ImageName2": "Castelo",
+    "ImageName3": "Castelo",
+    "imageLink1": "",
+    "banner2": {
+      "src": "/file/v7226548420812049731/general/projetos1.png",
+      "mediaName": "/general/projetos1.png"
+    },
+    "imageLink2": "",
+    "banner3": {
+      "src": "/file/v3382911196491900838/general/projetos0.png",
+      "mediaName": "/general/projetos0.png"
+    },
+    "imageLink3": "",
+    "imageLink4": "",
+    "banner1": {
+      "src": "/file/v4270816539636550117/general/castle.jpg",
+      "mediaName": "/general/castle.jpg"
+    }
+  },
+  "displayName": "academy-occ-d01-RafaelTognon"
+}

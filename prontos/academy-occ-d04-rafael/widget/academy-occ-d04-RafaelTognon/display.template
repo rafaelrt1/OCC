@@ -1,0 +1,38 @@
+<!-- ko if: show -->
+<div class="jumbotron">
+  <h2 class="section-title" data-bind="text: sectionTitle"></h2>
+    <div class="row">
+      <!-- ko foreach: products -->
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="thumbnail card-size">
+          <div class="caption">
+            <a data-bind="ccLink:{route: route}"><h4 class="product-name" data-bind="text: displayName"></h4></a>
+          </div>
+          <div>
+            <img class="center-block" data-bind="ccResizeImage: {
+              source: image,
+              xsmall: '150,150',                
+              small: '170,170',
+              medium: '200,200',   
+              large: '210,210',
+              alt: displayName,
+              errorSrc:'images/noImage.png',
+              errorAlt:'No Image Found'}">
+            </img>
+          </div>        
+          <div class="container pricing">
+            <!-- ko if: salePrice -->
+            <h4 class="actual-price" data-bind="text: '$'+salePrice"></h4>
+            <span class="sale" data-bind="widgetLocaleText : {value:'Sale', attr:'innerText'}"></span>
+            <h5 class="was-price" data-bind="text: '$'+listPrice"></h5>
+            <!-- /ko -->
+            <!-- ko ifnot: salePrice -->
+            <h4 class="actual-price" data-bind="text: '$'+listPrice"></h4>
+            <!-- /ko -->
+          </div>
+        </div>
+      </div>
+      <!-- /ko -->
+    </div>
+</div>
+<!-- /ko -->
